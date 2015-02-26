@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA211: Linear Algebra"
+course_description: "An introduction to the study of linear equations and vectors through the theory and practice of analyzing linear relations and their behavior under linear transformations."
+next: ../../../
+previous: ../Unit04
+---
 **Unit 5: Final Exam** <span id="5"></span> 
 -   **Final Exam: The Saylor Foundation's "MA211 Final Exam"**
     Link: The Saylor Foundation's ["MA211 Final

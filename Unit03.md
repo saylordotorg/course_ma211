@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA211: Linear Algebra"
+course_description: "An introduction to the study of linear equations and vectors through the theory and practice of analyzing linear relations and their behavior under linear transformations."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Spectral Theory, Matrices, and Inner Product** <span
 id="3"></span> 
 **We have seen that matrix A corresponds to a linear transformation, T,

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA211: Linear Algebra"
+course_description: "An introduction to the study of linear equations and vectors through the theory and practice of analyzing linear relations and their behavior under linear transformations."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Determinants, Rank, and Linear Transformations** <span
 id="2"></span> 
 **Despite the complicated definition of determinants, they are very

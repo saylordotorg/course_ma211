@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA211: Linear Algebra"
+course_description: "An introduction to the study of linear equations and vectors through the theory and practice of analyzing linear relations and their behavior under linear transformations."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Vector Spaces and Linear Transformations** <span
 id="4"></span> 
 **This unit discusses vector spaces and linear transformations.  The
