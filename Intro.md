@@ -181,69 +181,12 @@ completing the Final Exam.
     Algebra*, “this is intended to be a first course in linear algebra
     for students who are sophomores or juniors who have had a course in
     one variable calculus and a reasonable background in college
-    algebra.”  A solutions manual for the textbook is included.*  
-      
-     [*Elementary Linear
-    Algebra*](http://www.saylor.org/site/wp-content/uploads/2012/02/Elementary-Linear-Algebra-1-30-11-Kuttler-OTC.pdf) (PDF)  
-     [*Elementary Linear Algebra* Solutions
-    Manual](http://www.saylor.org/site/wp-content/uploads/2012/01/Elementary-Linear-Algebra-Solutions-Manual-1-30-11-Kuttler-OTC.pdf) (PDF)  
-     *[Elementary Linear
-    Algebra](http://itunes.apple.com/us/book/elementary-linear-algebra/id540038777?mt=11)*
-    (iTunes)
+    algebra.”  A solutions manual for the textbook is included.* 
 
--   **Some Prerequisite Topics**
+**Table of Contents:** You can find the course's units at the links below.
 
-    **To learn linear algebra, you must have knowledge of some topics
-    from elementary algebra.  In this unit, you will review these
-    topics.  Specifically, the unit begins with a brief review of set
-    notation and then moves to a review of complex numbers.  This is
-    especially important in linear algebra, since polynomial equations
-    with real coefficients often have complex numbers as roots.  The
-    quadratic formula, which is the next topic you will review, is a
-    good example of this phenomenon. **
-
-    **Time Advisory**  
-
-    This unit should take you approximately 1.25 hours to complete.  
-      
-     ******<span id="238_time_advisory" class="showltimeadivisoryspan"
-    style="display: inline; ">☐    </span>******<span
-    style="line-height: 21px; ">Subunit 0.1: 0.5 hour</span>  
-      
-     **☐    **Subunit 0.2: 0.5 hour  
-      
-     **☐    **Subunit 0.3: 0.25 hour
-
--   **Sets and Functions**
-    -   **Reading: Professor Kenneth Kuttler’s Elementary Linear
-        Algebra: “Chapter 1: Some Prerequisite Topics:” “Section 1.1:
-        Sets and Set Notation,” “Section 1.2: Functions,” and “Section
-        1.3: Graphs of Functions”**
-        The Saylor Foundation does not yet have materials for this
-        portion of the course. If you are interested in contributing
-        your content to fill this gap or aware of a resource that could
-        be used here, please submit it here.
-
-        [Submit Materials](/contribute/)
--   **Complex Numbers**
-    -   **Reading: Professor Kenneth Kuttler’s Elementary Linear
-        Algebra: “Chapter 1: Some Prerequisite Topics:” “Section 1.4:
-        The Complex Numbers,” “Section 1.5: Polar Form of Complex
-        Numbers,” and “Section 1.6: Roots of Complex Numbers”**
-        The Saylor Foundation does not yet have materials for this
-        portion of the course. If you are interested in contributing
-        your content to fill this gap or aware of a resource that could
-        be used here, please submit it here.
-
-        [Submit Materials](/contribute/)
--   **The Quadratic Formula**
-    -   **Reading: Professor Kenneth Kuttler’s Elementary Linear
-        Algebra: “Chapter 1: Some Prerequisite Topics:” “Section 1.7:
-        The Quadratic Formula”**
-        The Saylor Foundation does not yet have materials for this
-        portion of the course. If you are interested in contributing
-        your content to fill this gap or aware of a resource that could
-        be used here, please submit it here.
-
-        [Submit Materials](/contribute/)
-
+- [Unit 1](https://legacy.saylor.org/ma211/Unit01/)
+- [Unit 2](https://legacy.saylor.org/ma211/Unit02/)
+- [Unit 3](https://legacy.saylor.org/ma211/Unit03/)
+- [Unit 4](https://legacy.saylor.org/ma211/Unit04/)
+- [Unit 5](https://legacy.saylor.org/ma211/Unit05/)
