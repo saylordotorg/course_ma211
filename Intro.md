@@ -128,7 +128,7 @@ computer.
  √    Be competent in the English language.  
         
  √    Have read the [Saylor Student
-Handbook.](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)
+Handbook.](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)
 
 ### Course Information
 
@@ -140,7 +140,7 @@ free, online materials. However, the course makes primary use of the
 following materials:  
 
 -   Kenneth Kuttler’s *[Elementary Linear
-    Algebra](http://www.saylor.org/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf)*
+    Algebra](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf)*
 
 **Requirements for Completion: **In order to complete this course, you
 will need to work through each unit and all of its assigned materials. 

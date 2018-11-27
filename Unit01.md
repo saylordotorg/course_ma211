@@ -130,7 +130,7 @@ Upon successful completion of this unit, you will be able to:
     Geometric Meaning of Vectors,” and “Section 2.3: Geometric Meaning
     of Vector Addition”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](http://www.saylor.org/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     2: Fn:” “Section 2.1: Algebra in Fn.” “Section 2.2: Geometric
     Meaning of Vectors,” and “Section 2.3: Geometric Meaning of Vector
     Addition” (PDF)  
@@ -153,7 +153,7 @@ id="1.1.2"></span> 
     a Vector” and “Section 2.5: Geometric Meaning of Scalar
     Multiplication”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](http://www.saylor.org/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     2: Fn*.*” “Section 2.4: Distance between Points In Rn Length of a
     Vector” and “Section 2.5: Geometric Meaning of Scalar
     Multiplication” (PDF)  
@@ -170,13 +170,13 @@ id="1.1.2"></span> 
 -   **Assessment: Professor Kenneth Kuttler’s Elementary Linear Algebra:
     "Chapter 2:" “Section 2.6: Exercises”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](http://www.saylor.org/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     2: Fn.” “Section 2.6: Exercises” (PDF)  
         
      Instructions: Please click on the link above to open the PDF.
      Scroll down to page 31 to Section 2.6, and complete problems 1, 2,
     4, and 5.  Next, click on
-    “[Solutions](http://www.saylor.org/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
+    “[Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
     (PDF) and check your answers on pages 5–6.  This assessment should
     take you approximately 1 hour to complete.   
         
@@ -188,7 +188,7 @@ id="1.1.2"></span> 
     "Chapter 2: Fn." "Section 2.7: Vectors and Physics"**
 
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](http://www.saylor.org/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     2:” “Section 2.7: Vectors and Physics” (PDF)  
         
      Instructions: Please click on the link above, and read Section 2.7
@@ -202,13 +202,13 @@ id="1.1.2"></span> 
 -   **Assessment: Professor Kenneth Kuttler's Elementary Linear Algebra:
     "Chapter 2: Fn." "Section 2.8: Exercises"**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](http://www.saylor.org/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     2: Fn." “Section 2.8: Exercises”(PDF)  
       
      Instructions: Please click on the link above to open the PDF. 
     Scroll down to page 36, and complete problems 2, 3, 7, 9, 10, and
     11.  Next, click on
-    “[Solutions](http://www.saylor.org/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
+    “[Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
     (PDF) and check your answers on pages 6–8.  This assessment should
     take you approximately 2 hours to complete.  
         
@@ -221,7 +221,7 @@ id="1.1.2"></span> 
     “Chapter 3: Vector Products:” “Section 3.1: The Dot Product” and
     “Section 3.2: The Geometric Significance of the Dot Product”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](http://www.saylor.org/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     3: Vector Products:” “Section 3.1: The Dot Product” and “Section
     3.2: The Geometric Significance of the Dot Product” (PDF)  
         
@@ -238,13 +238,13 @@ id="1.1.2"></span> 
 -   **Assessment: Professor Kenneth Kuttler’s Elementary Linear Algebra:
     “Chapter 3: Vector Products:” “Section 3.3: Exercises”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](http://www.saylor.org/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     3: Vector Products:” “Section 3.3: Exercises” (PDF)  
         
      Instructions: Please click on the link above to open the PDF. 
     Scroll down to page 47, and work on problems 1, 2, 4, 6, 10, 14, 15,
     17, 20, and 21.  Next, click on
-    “[Solutions](http://www.saylor.org/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
+    “[Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
     (PDF) and check your answers on pages 8–10.  This assessment should
     take you approximately 2 hours and 30 minutes to complete.  
         
@@ -255,7 +255,7 @@ id="1.1.2"></span> 
 -   **Reading: Professor Kenneth Kuttler’s Elementary Linear Algebra:
     “Chapter 3: Vector Products:” “Section 3.4: The Cross Product”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](http://www.saylor.org/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     3: Vector Product:” “Section 3.4: The Cross Product” (PDF)  
         
      Instructions: Please click on the link above, and read Section 3.4
@@ -271,7 +271,7 @@ id="1.1.2"></span> 
     “Chapter 3: Vector Products:” “Section 3.5: The Vector Identity
     Machine”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](http://www.saylor.org/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     3: Vector Products:” “Section 3.5: The Vector Identity Machine”
     (PDF)  
         
@@ -287,13 +287,13 @@ id="1.1.2"></span> 
 -   **Assessment: Professor Kenneth Kuttler’s Elementary Linear Algebra:
     “Chapter 3: Vector Products:” “Section 3.6: Exercises”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](http://www.saylor.org/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     3: Vector Products:” “Section 3.6: Exercises” (PDF)  
         
      Instructions: Please click on the link above to open the PDF. 
     Scroll down to page 56, and complete problems 1, 4, 6, 7, 8, 9, 10,
     13, 16, 18, and 20.  Next, click on
-    “[Solutions](http://www.saylor.org/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
+    “[Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
     (PDF) and check your answers on pages 11–14.  This assessment should
     take you approximately 3 hours and 30 minutes to complete.  
         
@@ -306,7 +306,7 @@ id="1.1.2"></span> 
     “Chapter 4: Systems of Equations:” “Section 4.1: Systems of
     Equations, Geometry”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](http://www.saylor.org/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     4: Systems of Equations:” “Section 4.1: Systems of Equations,
     Geometry” (PDF)  
         
@@ -324,7 +324,7 @@ id="1.3.2"></span> 
     “Chapter 4: Systems of Equations:” “Section 4.2: Systems of
     Equations, Algebraic Procedures”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](http://www.saylor.org/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *Chapter
+    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *Chapter
     4: Systems of Equations:” “Section 4.2: Systems of Equations,
     Algebraic Procedures” (PDF)  
         
@@ -340,13 +340,13 @@ id="1.3.2"></span> 
 -   **Assessment: Professor Kenneth Kuttler’s Elementary Linear Algebra:
     “Chapter 4: Systems of Equations:” “Section 4.3: Exercises”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](http://www.saylor.org/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     4: Systems of Equations:” “Section 4.3: Exercises” (PDF)  
         
      Instructions: Please click on the link above to open the PDF. 
     Scroll down to page 72, and complete problems 1, 6, 12, 13, 17, 19,
     22, 30, 35, and 36.  Next, click on
-    “[Solutions](http://www.saylor.org/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
+    “[Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
     (PDF) and check your answers on pages 14–20.  This assessment should
     take you approximately 3 hours and 30 minutes to complete.  
         
@@ -357,7 +357,7 @@ id="1.3.2"></span> 
 -   **Reading: Professor Kenneth Kuttler’s Elementary Linear Algebra:
     “Chapter 5: Matrices:” “Section 5.1: Matrix Arithmetic”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](http://www.saylor.org/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     5: Matrices:” “Section 5.1: Matrix Arithmetic” (PDF)  
         
      Instructions: Please click on the link above, and read Section 5.1
@@ -371,13 +371,13 @@ id="1.3.2"></span> 
 -   **Assessment: Professor Kenneth Kuttler’s Elementary Linear Algebra:
     “Chapter 5: Matrices:” “Section 5.2: Exercises”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](http://www.saylor.org/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     5: Matrices:” “Section 5.2: Exercises” (PDF)  
         
      Instructions: Please click on the link above to open the PDF. 
     Scroll down to page 92, and complete problems 3, 5, 6, 7, 10, 12,
     16, 19, 24, 28, 32 37, 40, 44, 47, and 53.  Next, click on
-    “[Solutions](http://www.saylor.org/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
+    “[Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
     (PDF) and check your answers on pages 19–28.  This assessment should
     take you approximately 5 hours to complete.  
         
