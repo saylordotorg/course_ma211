@@ -90,7 +90,7 @@ id="4.1.1"></span> 
     Considerations” and “Section 16.2.1: Linear Independence and
     Bases”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     16: Vector Spaces:” “Section 16.1: Algebraic Considerations” and
     “Section 16.2.1: Linear Independence and Bases” (PDF)  
         
@@ -106,15 +106,15 @@ id="4.1.1"></span> 
 -   **Assessment: Professor Kenneth Kuttler’s Elementary Linear Algebra:
     “Chapter 16: Vector Spaces:” “Section 16.2: Exercises”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     16: Vector Spaces:” “[Section 16.2:
-    Exercises](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf)”
+    Exercises](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf)”
     (PDF)  
         
      Instructions:  Please click on the link above to open the PDF. 
     Scroll down to page 330, and complete problems 1, 2, 3, and 4. 
     Next, click on
-    “[Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
+    “[Solutions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
     (PDF) and check your answers on pages 124–125.  This assessment
     should take you approximately 2 hours to complete.   
         
@@ -126,7 +126,7 @@ id="4.1.1"></span> 
     “Chapter 16: Vector Spaces:” “Section 16.3: Vector Space and
     Fields”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     16: Vector Spaces:” “Section 16.3: Vector Space and Fields” (PDF)  
         
      Instructions: Please click on the link above, and read Section 16.3
@@ -140,13 +140,13 @@ id="4.1.1"></span> 
 -   **Assessment: Professor Kenneth Kuttler’s Elementary Linear Algebra:
     “Chapter 16: Vector Spaces:” “Section 16.4: Exercises”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     16: Vector Spaces:” “Section 16.4: Exercises” (PDF)  
         
      Instructions:  Please click on the link above to open the PDF. 
     Scroll down to page 243, and work on problems 2, 4, 10, 12, 16, 20,
     24, and 29.  Next, click on
-    “[Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
+    “[Solutions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
     (PDF) and check your answers on pages 125–135.  This assessment
     should take you approximately 4 hours to complete.   
         
@@ -157,7 +157,7 @@ id="4.1.1"></span> 
 -   **Reading: Professor Kenneth Kuttler’s Elementary Linear Algebra:
     “Chapter 16: Vector Spaces:” “Section 16.5: Inner Product Spaces”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     16: Vector Spaces:” “Section 16.5: Inner Product Spaces” (PDF)  
         
      Instructions: Please click on the link above, and read Section 16.5
@@ -171,13 +171,13 @@ id="4.1.1"></span> 
 -   **Assessment: Professor Kenneth Kuttler’s Elementary Linear Algebra:
     “Chapter 16: Vector Spaces:” “Section 16.6: Exercises”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     16: Vector Spaces:” “Section 16.6: Exercises” (PDF)  
         
      Instructions:  Please click on the above link to open the PDF.
      Scroll down to page 361, and complete problems 1, 4, 7, 12, 15, 17,
     and 22.  Next, click on
-    “[Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
+    “[Solutions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
     (PDF) and check your answers on pages 135–150.  This assessment
     should take you approximately 4 hours to complete.   
         
@@ -191,7 +191,7 @@ id="4.1.1"></span> 
     Multiplication as a Linear Transformation” and “Section 17.2: L(V,W)
     as a Vector Space”**
     Link: Professor Kenneth Kuttler’s [*Elementary Linear
-    Algebra:*](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf)“Chapter
+    Algebra:*](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf)“Chapter
     17: Linear Transformations:” “Section 17.1: Matrix Multiplication as
     a Linear Transformation” and “Section 17.2: *L(V,W)* as a Vector
     Space” (PDF)  
@@ -210,7 +210,7 @@ id="4.2.2"></span> 
     “Chapter 17: Linear Transformations:” “Section 17.3: Eigenvalues and
     Eigenvectors of Linear Transformations”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     17: Linear Transformations:” “Section 17.3: Eigenvalues and
     Eigenvectors of Linear Transformations” (PDF)  
         
@@ -227,7 +227,7 @@ id="4.2.2"></span> 
     “Chapter 17: Linear Transformations:” “Section 17.4: Block Diagonal
     Matrices”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     17: Linear Transformations:” “Section 17.4: Block Diagonal Matrices”
     (PDF)  
         
@@ -246,7 +246,7 @@ id="4.2.4"></span> 
     “Chapter 17: Linear Transformations:” “Section 17.5: The Matrix of a
     Linear Transformation”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     17:  Linear Transformations:” “Section 17.5: The Matrix of a Linear
     Transformatio” (PDF)  
         
@@ -264,7 +264,7 @@ id="4.2.5"></span> 
     “Chapter 17: Linear Transformations:” “Section 17.6: The Matrix
     Exponential, Differential Equations”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     17: Linear Transformations:” “Section 17.6: The Matrix Exponential,
     Differential Equations” (PDF)  
         
@@ -279,13 +279,13 @@ id="4.2.5"></span> 
 -   **Assessment: Professor Kenneth Kuttler’s Elementary Linear Algebra:
     “Chapter 17: Linear Transformations:” “Section 17.7: Exercises”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     17: Linear Transformations:” “Section 17.7: Exercises” (PDF)  
         
      Instructions: Please click on the link above to open the PDF.
      Scroll down to page 391, and work on problems 1, 3, 8, 12, 15, 18,
     and 21.  Next, click on
-    “[Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
+    “[Solutions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
     (PDF) and check your answers on pages 151–157.  This assessment
     should take you approximately 4 hours to complete.   
         

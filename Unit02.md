@@ -158,7 +158,7 @@ Upon successful completion of this unit, you will be able to:
     “Chapter 6: Determinants:” “Section 6.1: Basic Techniques and
     Properties”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     6: Determinants:” “Section 6.1: Basic Techniques and Properties”
     (PDF)  
         
@@ -174,7 +174,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: Professor Kenneth Kuttler’s Elementary Linear Algebra:
     “Chapter 6: Determinants:” “Section 6.2: Applications”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     6: Determinants:” “Section 6.2: Applications” (PDF)  
         
      Instructions: Please click on the link above, and read Section 6.2
@@ -188,13 +188,13 @@ Upon successful completion of this unit, you will be able to:
 -   **Assessment: Professor Kenneth Kuttler’s Elementary Linear Algebra:
     “Chapter 6: Determinants:” “Section 6.3: Exercises”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     6: Determinants:” “Section 6.3: Exercises” (PDF)  
         
      Instructions: Please click on the link above to open the PDF.
      Scroll down to page 109, and complete problems 1, 3, 4, 5, 9, 11,
     13, 16, 20, 21, 24, 26, 28, 32, and 36.  Next, click on
-    “[Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
+    “[Solutions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
     (PDF) and check your answers on pages 28–38.  This assessment should
     take you approximately 5 hours to complete.   
         
@@ -206,7 +206,7 @@ Upon successful completion of this unit, you will be able to:
 -   **Reading: Professor Kenneth Kuttler’s Elementary Linear Algebra:
     “Chapter 8: Rank of a Matrix:” “Section 8.1: Elementary Matrices”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     8: Rank of a Matrix:” “Section 8.1: Elementary Matrices” (PDF)  
         
      Instructions: Please click on the link above, and read Section 8.1
@@ -224,7 +224,7 @@ id="2.2.2"></span> 
     “Chapter 8: Rank of a Matrix:” “Section 8.2: The Row Reduced Echelon
     Form of a Matrix”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     8: Rank of a Matrix:” “Section 8.2: The Row Reduced Echelon Form of
     a Matrix” (PDF)  
         
@@ -240,7 +240,7 @@ id="2.2.2"></span> 
 -   **Reading: Professor Kenneth Kuttler’s Elementary Linear Algebra:
     “Chapter 8: Rank of a Matrix:” “Section 8.3: The Rank of a Matrix”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     8: Rank of a Matrix:” “Section 8.3: The Rank of a Matrix” (PDF)  
         
      Instructions: Please click on the link above, and read Section 8.3
@@ -256,7 +256,7 @@ id="2.2.2"></span> 
     “Chapter 8: Rank of a Matrix:” “Section 8.4: Linear Independence and
     Bases”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     8: Rank of a Matrix:” “Section 8.4: Linear Independence and Bases”
     (PDF)  
         
@@ -272,7 +272,7 @@ id="2.2.2"></span> 
 -   **Reading: Professor Kenneth Kuttler’s Elementary Linear Algebra:
     “Chapter 8: Rank of a Matrix:” “Section 8.5: Fredholm Alternative”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     8: Rank of a Matrix:” “Section 8.5: Fredholm Alternative” (PDF)  
         
      Instructions: Please click on the link above, and read Section 8.5
@@ -286,13 +286,13 @@ id="2.2.2"></span> 
 -   **Assessment: Professor Kenneth Kuttler’s Elementary Linear Algebra:
     “Chapter 8: Rank of a Matrix:” “Section 8.6: Exercises”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     8: Rank of a Matrix:” “Section 8.6: Exercises” (PDF)  
         
      Instructions: Please click on the link above to open the PDF. 
     Scroll down to page 156, and complete problems 2, 5, 7, 10, 12, 16,
     18, 25, 32, 34, 45, 50, and 54.  Next, click on
-    “[Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
+    “[Solutions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
     (PDF) and check your answers on pages 38–49.  This assessment should
     take you approximately 4 hours to complete.    
       
@@ -305,7 +305,7 @@ id="2.2.2"></span> 
     Transformations” and “Section 9.2: Constructing the Matrix of a
     Linear Transformation”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     9: Linear Transformations:” “Section 9.1: Linear Transformations”
     and “Section 9.2: Constructing the Matrix of a Linear
     Transformation” (PDF)  
@@ -321,13 +321,13 @@ id="2.2.2"></span> 
 -   **Assessment: Professor Kenneth Kuttler’s Elementary Linear Algebra:
     “Chapter 9: Linear Transformations:” “Section 9.3: Exercises”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     9: Linear Transformations:” “Section 9.3: Exercises” (PDF)  
         
      Instructions: Please click on the above link to open the PDF. 
     Scroll down to page 173, and work on problems 2, 7, 9, 14, 17, 20,
     23, 28, 32, 47, and 51.  Next, click on
-    “[Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
+    “[Solutions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
     (PDF) and check your answers on pages 49–59.  This assessment should
     take you approximately 4 hours to complete.   
         

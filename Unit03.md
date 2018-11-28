@@ -131,7 +131,7 @@ id="3.1.1"></span> 
     “Chapter 12: Spectral Theory:” “Section 12.1: Eigenvalues and
     Eigenvectors of a Matrix”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     12: Spectral Theory:” “Section 12.1: Eigenvalues and Eigenvectors of
     a Matrix” (PDF)  
         
@@ -149,7 +149,7 @@ id="3.1.1"></span> 
     “Chapter 12: Spectral Theory:” “Section 12.3: The Estimation of
     Eigenvalues”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     12: Spectral Theory:” “Section 12.3: The Estimation of Eigenvalues”
     (PDF)  
         
@@ -165,13 +165,13 @@ id="3.1.1"></span> 
 -   **Assessment: Professor Kenneth Kuttler’s Elementary Linear Algebra:
     “Chapter 12: Spectral Theory:” “Section 12.4: Exercises”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     12: Spectral Theory:” “Section 12.4: Exercises” (PDF)  
         
      Instructions: Please click on the above link to open the PDF. 
     Scroll down to page 237, and complete problems 3, 5, 8, 11, 13, 20,
     25, 28, 43, 48, and 54.  Next, click on
-    “[Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
+    “[Solutions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
     (PDF) and check your answers on pages 76–84.  This assessment should
     take you approximately 4 hours and 30 minutes to complete.   
         
@@ -184,7 +184,7 @@ id="3.1.1"></span> 
     “Chapter 13: Matrices and the Inner Product:” “Section 13.1:
     Symmetric and Orthogonal Matrices”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     13: Matrices and the Inner Product:” “Section 13.1: Symmetric and
     Orthogonal Matrices” (PDF)  
         
@@ -202,7 +202,7 @@ id="3.2.2"></span> 
     “Chapter 13: Matrices and the Inner Product:” “Section 13.2:
     Fundamental Theory and Generalizations”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     13: Matrices and the Inner Product:” “Section 13.2: Fundamental
     Theory and Generalizations” (PDF)  
         
@@ -219,7 +219,7 @@ id="3.2.2"></span> 
     “Chapter 13: Matrices and the Inner Product:” “Section 13.3: Least
     Square Approximation”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     13: Matrices and the Inner Product:” “Section 13.3: Least Square
     Approximation” (PDF)  
         
@@ -238,7 +238,7 @@ id="3.2.2"></span> 
     Decomposition,” “Section 13.6: Approximation in the Frobenius Norm,”
     and “Section 13.7: Moore Penrose Inverse”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     13: Matrices and the Inner Product:” “Section 13.4: The Right Polar
     Factorization,” “Section 13.5: The Singular Value Decomposition,”
     “Section 13.6: Approximation in the Frobenius Norm,” and “Section
@@ -257,14 +257,14 @@ id="3.2.2"></span> 
     “Chapter 13: Matrices and the Inner Product:” “Section 13.8:
     Exercises”**
     Link: Professor Kenneth Kuttler’s *[Elementary Linear
-    Algebra:](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
+    Algebra:](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-4-26-12-Kuttler-OTC.pdf) *“Chapter
     13: Matrices and the Inner Products:” “Section 13.8: Exercises”
     (PDF)  
         
      Instructions: Please click on the link above to open the PDF. 
     Scroll down to page 274, and work on problems 2, 5, 10, 14, 19, 24,
     28, 32, 37, 39, 43, 48, 52, and 57.  Next, click on
-    “[Solutions](https://resources.saylor.org/archived/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
+    “[Solutions](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/04/Elementary-Linear-Algebra-Solutions-Manual-4-26-12-Kuttler-OTC.pdf)”
     (PDF) and check your answers on pages 88–106.  This assessment
     should take you approximately 4 hours to complete.   
         
